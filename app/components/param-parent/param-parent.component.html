@@ -1,0 +1,7 @@
+<form>
+  <input type="text" name="id" [(ngModel)]="nextId" placeholder="id">
+  <input type="text" name="name" [(ngModel)]="nextName" placeholder="name">
+  <button class="btn btn-primary" type="submit" [routerLink]="['/param', nextId, nextName]">Submit</button>
+</form>
+
+<router-outlet></router-outlet>

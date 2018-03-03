@@ -1,0 +1,278 @@
+body {
+    background: #292929;
+    padding-left: 30px;
+  }
+  .row {
+    float: left;
+    width: 100%;
+  }
+  .row .block {
+    float: left;
+    width: 25%;
+    height: 150px;
+  }
+  .container {
+    padding-top: 250px;
+    padding-left: 250px;
+  }
+  .hoverbtn {
+    display: inline-block;
+    font-size: 18px;
+    font-weight:400;
+    line-height: 90px;
+    cursor: pointer;
+    margin: 20px;
+    width: 100%;
+    font-family:"Roboto";
+    height: 90px;
+    text-align: center;
+    position: relative;
+    text-decoration: none;
+    z-index: 1;
+    color: #fff;
+  }
+  .hoverbtn.small {
+    font-size: 20px;
+    line-height:45px;
+    width:100%;
+    height:45px;
+    margin:7px;
+  }
+  .hoverbtn.mini {
+    font-size: 15px;
+    line-height:32px;
+    width:100%;
+    height:30px;
+    margin:7px;
+  }
+  .hoverbtn.auto-width {
+    width: auto;
+    height: auto;
+    padding: 15px;
+  }
+  .hoverbtn:after {
+    pointer-events: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content:'';
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+  }
+  .hoverbtn:before {
+    speak: none;
+    font-size: 48px;
+    line-height: 90px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  
+  
+  
+  
+  .hoverbtn.effect-1 {
+    background: rgba(255, 255, 255, 0.1);
+    -webkit-transition: background 0.2s, color 0.2s;
+    -moz-transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s;
+  }
+  .hoverbtn.effect-1:after {
+    top: -7px;
+    left: -7px;
+    padding: 7px;
+    box-shadow: 0 0 0 4px #fff;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -webkit-transform: scale(.8);
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    transition: transform 0.2s, opacity 0.2s;
+    transform: scale(.8);
+    opacity: 0;
+  }
+  
+  .hoverbtn.effect-1.sub-a:hover {
+    background: rgba(255, 255, 255, 1);
+    color: #41ab6b;
+  }
+  .hoverbtn.effect-1.sub-a:hover i {
+    color: #41ab6b;
+  }
+  .hoverbtn.effect-1.sub-a:hover:after {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }  
+  
+  
+  /* Effect 5 */
+  .hoverbtn.effect-5 {
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 1);
+    overflow: hidden;
+    -webkit-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+    -moz-transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+    transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+  }
+  .hoverbtn.effect-5:after {
+    display: none;
+  }
+  .hoverbtn.effect-5:hover {
+    background: rgba(255, 255, 255, 1);
+    color: #702fa8;
+    box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.3);
+  }
+  .hoverbtn.effect-5:hover i {
+    color: #702fa8;
+  }
+  .hoverbtn.effect-5.sub-a:hover:before {
+    -webkit-animation: toRightFromLeft 0.3s forwards;
+    -moz-animation: toRightFromLeft 0.3s forwards;
+    animation: toRightFromLeft 0.3s forwards;
+  }
+  
+
+  
+  
+  
+  /* Effect 7 */
+  .hoverbtn.effect-7 {
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 1);
+    -webkit-transition: background 0.2s, color 0.2s;
+    -moz-transition: background 0.2s, color 0.2s;
+    transition: background 0.2s, color 0.2s;
+  }
+  .hoverbtn.effect-7:hover, .hoverbtn.effect-7:hover i {
+    color: #fff;
+  }
+  .hoverbtn.effect-7:after {
+    top: -8px;
+    left: -8px;
+    padding: 8px;
+    z-index: -1;
+    opacity: 0;
+  }
+  
+  
+  
+  /* Effect 7a */
+  .hoverbtn.effect-7.sub-a:after {
+    box-shadow: 0 0 0 rgba(255, 255, 255, 1);
+    -webkit-transition: opacity 0.2s, box-shadow 0.2s;
+    -moz-transition: opacity 0.2s, box-shadow 0.2s;
+    transition: opacity 0.2s, box-shadow 0.2s;
+  }
+  .hoverbtn.effect-7.sub-a:hover:after {
+    opacity: 1;
+    box-shadow: 3px 3px 0 rgba(255, 255, 255, 1);
+  }
+  .hoverbtn.effect-7.sub-a:before {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    opacity: 0.7;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    transition: transform 0.2s, opacity 0.2s;
+  }
+  .hoverbtn.effect-7.sub-a:hover:before {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+  
+  
+  
+  /* Effect 7b */
+  .hoverbtn.effect-7.sub-b:after {
+    box-shadow: 3px 3px rgba(255, 255, 255, 1);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    -webkit-transition: opacity 0.2s, -webkit-transform 0.2s;
+    -moz-transition: opacity 0.2s, -moz-transform 0.2s;
+    transition: opacity 0.2s, transform 0.2s;
+  }
+  .hoverbtn.effect-7.sub-b:hover:after {
+    opacity: 1;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  .hoverbtn.effect-7.sub-b:before {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    opacity: 0.7;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    transition: transform 0.2s, opacity 0.2s;
+  }
+  .hoverbtn.effect-7.sub-b:hover:before {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+  
+  
+  
+
+  .hoverbtn.effect-9 {
+    -webkit-transition: box-shadow 0.2s;
+    -moz-transition: box-shadow 0.2s;
+    transition: box-shadow 0.2s;
+  }
+  .hoverbtn.effect-9:after {
+    top: 0;
+    left: 0;
+    padding: 0;
+    box-shadow: 0 0 0 3px #fff;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    transition: transform 0.2s, opacity 0.2s;
+  }
+  
+   .hoverbtn.effect-9.sub-a:hover:after {
+    -webkit-transform: scale(0.85);
+    -moz-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    transform: scale(0.85);
+    opacity: 0.5;
+  }
+  .hoverbtn.effect-9.sub-a:hover {
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 1);
+    color: #fff;
+  }
+  .hoverbtn.effect-9.sub-a:hover i {
+    color: #fff;
+  }
+  
+   .hoverbtn.effect-9.sub-b:hover:after {
+    -webkit-transform: scale(0.85);
+    -moz-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    transform: scale(0.85);
+  }
+  .hoverbtn.effect-9.sub-b:hover {
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.4);
+    color: #fff;
+  }
+  .hoverbtn.effect-9.sub-b:hover i {
+    color: #fff;
+  } 
+  

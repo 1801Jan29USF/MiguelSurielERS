@@ -1,0 +1,54 @@
+
+<div class="wrapper">
+  <div class="container">
+    
+    
+  <form (ngSubmit)="submitticket()" #EmptyRequestForm="ngForm">
+  <input type="number" name="Amount" [(ngModel)]="credential.reimb_amount" placeholder="Amount greater than 0" required oninput="validity.valid||(value='');" min="1">
+  <input type="text" name="Description" [(ngModel)]="credential.reimb_description" required placeholder="Description">
+  
+
+  <div class="container2" required>
+    <p>What Type of Reimbursement?</p>
+    <br>
+    
+<label for="toggle1">LODGING</label>
+    <input [ngClass]="{selected: credential.type_id === 1}" id="1" type="checkbox" ng-model="checkbox" (click)="credential.type_id = 1" value=1>
+
+    
+<label for="toggle2">TRAVEL</label>
+    <input [ngClass]="{selected: credential.type_id === 2}" id="2" type="checkbox" ng-model="checkbox" (click)="credential.type_id = 2" value=2>
+
+   
+ <label for="toggle3">FOOD</label>
+    <input [ngClass]="{selected: credential.type_id === 3}" id="3" type="checkbox" ng-model="checkbox" (click)="credential.type_id = 3" value=3>
+
+ 
+   <label for="toggle4">OTHER</label>
+    <input [ngClass]="{selected: credential.type_id === 4}" id="4" type="checkbox" ng-model="checkbox" (click)="credential.type_id = 4" value=4>
+ 
+  </div>
+ <br>
+ <br>
+  <button type="submit" class="btn-btn-primary" [disabled]="!EmptyRequestForm.form.valid">Submit</button>
+</form>   
+
+
+
+
+  </div>
+  
+  <ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div> 
+

@@ -1,0 +1,63 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+
+<div class="wrapper">
+	<div class="container">
+
+<table class="table table-striped">
+    <thead>
+      <tr>    
+        <th scope="col">reimb_amount</th>
+        <th scope="col">reimb_submitted</th>
+        <th scope="col">reimb_resolved</th>
+        <th scope="col">reimb_description</th>
+        <th scope="col">reimb_resolver</th>
+        <th scope="col">reimb_status_id</th>
+        <th scope="col">type_id</th>
+      </tr>
+    </thead>
+    <!-- ngIf to replace the null for unresolved status and the status or type -->
+    <tbody>
+      <tr *ngFor="let ticket of tickets">
+        <th scope="row">{{ticket.reimb_amount | currency:'USD':'symbol':'1.2'}}</th>
+        <td>{{ticket.reimb_submitted | date:"EEEE, MMMM d, y, h:mm:ss"}}</td>
+        <td *ngIf="ticket.reimb_resolved!=null else unresolved">{{ticket.reimb_resolved | date:"EEEE, MMMM d, y, h:mm:ss"}}</td>
+        <ng-template #unresolved><td>Unresolved</td></ng-template>
+        <td>{{ticket.reimb_description}}</td>
+        <td *ngIf="ticket.reimb_resolver!=0 else no">{{ticket.reimb_resolver}}</td>
+        <ng-template #no><td>N/A</td></ng-template>
+        <td *ngIf="ticket.reimb_status_id==1">Pending</td>
+        <td *ngIf="ticket.reimb_status_id==2">Approved</td>
+        <td *ngIf="ticket.reimb_status_id==3">Denied</td>
+        <td *ngIf="ticket.type_id==1">LODGING</td>
+        <td *ngIf="ticket.type_id==2">TRAVEL</td>
+        <td *ngIf="ticket.type_id==3">FOOD</td>
+        <td *ngIf="ticket.type_id==4">OTHER</td>
+      </tr>
+    </tbody>
+   </table>
+</div>
+
+<ul class="bg-bubbles">
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+</div> 
+<div class="row">
+<div class="block">
+
+  <i class="hoverbtn effect-5 sub-a"><a (click) = "_location.back()">Return</a></i>
+</div>
+</div>
+

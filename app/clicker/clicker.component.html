@@ -1,0 +1,8 @@
+<!-- This is interpolation with {{ }} -->
+
+<div class="clicker-container">
+    <p [ngClass]="{'blue': counter%5 === 0}"> Counter: {{ counter }} </p>
+<button class="btn-btn-primary" (click)="increment(1)"> Click ME PLZ</button>
+
+<button *ngIf=" counter >= 15" class="btn-btn-primary" (click)="increment(5)">SUPRISE!!</button>
+</div>

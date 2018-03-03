@@ -1,0 +1,9 @@
+<button class="btn btn-primary" routerLink="/parent/child1" routerLinkActive="disabled">child1</button>
+<button class="btn btn-primary" routerLink="child2" routerLinkActive="disabled">child2</button>
+<button class="btn btn-primary" routerLink="/parent/child3" routerLinkActive="disabled">child3</button>
+<button class="btn btn-primary" routerLink="/parent/child4" routerLinkActive="disabled">child4</button>
+<button class="btn btn-primary" routerLink="/parent/child5" routerLinkActive="disabled">child5</button>
+<button class="btn btn-primary" routerLink="/parent/child6" routerLinkActive="disabled">child6</button>
+<button class="btn btn-primary" (click)="toRandomChild()">Random Child</button>
+<!-- This is where the child routes will be injected -->
+<router-outlet></router-outlet>

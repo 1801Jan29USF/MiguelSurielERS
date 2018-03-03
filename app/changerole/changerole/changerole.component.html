@@ -1,0 +1,54 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+
+<div class="wrapper">
+	<div class="container">
+
+<table class="table table-striped">
+    <thead>
+      <tr>    
+        <th scope="col">User</th>
+        <th scope="col">User Status</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <!-- ngIf to replate the null for unresolved status and the status or type -->
+    <tbody>
+      <tr *ngFor="let user of users">
+        <th scope="row">{{user.username}}</th>
+        <td>{{user.userrole}}</td>
+        <td>
+          <form class="ui-group-buttons">
+              <button type="button" class="btn btn-primary btn-lg" (click)="Approved(2,user.userrole)">FM</button>
+              <div class="or or-lg"></div>
+              <button type="button" class="btn btn-success btn-lg" (click)="Denied(1,user.userrole)">Regular Employee</button>
+          </form>
+        </td>
+      </tr>
+    </tbody>
+   </table>
+</div>
+
+
+<ul class="bg-bubbles">
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+</div>
+<div class="row">
+    <div class="block">
+  
+      <i class="hoverbtn effect-5 sub-a"><a (click) = "_location.back()">Return</a></i>
+    </div>
+    </div>

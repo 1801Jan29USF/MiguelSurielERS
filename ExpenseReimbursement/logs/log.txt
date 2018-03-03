@@ -1,0 +1,530 @@
+2018-02-22 22:49:05 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-22 22:49:05 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-22 22:49:05 TRACE DatabaseDAO:42 - Please wait
+2018-02-22 22:49:05 TRACE DatabaseDAO:43 - .......
+2018-02-22 23:21:41 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-22 23:21:41 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-22 23:21:41 TRACE DatabaseDAO:42 - Please wait
+2018-02-22 23:21:41 TRACE DatabaseDAO:43 - .......
+2018-02-23 08:29:11 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 08:29:11 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 08:29:11 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 08:29:11 TRACE DatabaseDAO:43 - .......
+2018-02-23 08:29:14 TRACE DatabaseDAO:45 - connection established with server, creating new user account
+2018-02-23 08:30:09 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 08:30:09 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 08:30:09 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 08:30:09 TRACE DatabaseDAO:43 - .......
+2018-02-23 08:30:13 TRACE DatabaseDAO:45 - connection established with server, creating new user account
+2018-02-23 08:31:43 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 08:31:43 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 08:31:43 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 08:31:43 TRACE DatabaseDAO:43 - .......
+2018-02-23 08:32:18 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 08:32:18 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 08:32:18 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 08:32:18 TRACE DatabaseDAO:43 - .......
+2018-02-23 08:32:22 TRACE DatabaseDAO:45 - connection established with server, creating new user account
+2018-02-23 08:36:10 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 08:36:10 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 08:36:10 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 08:36:10 TRACE DatabaseDAO:43 - .......
+2018-02-23 08:36:14 TRACE DatabaseDAO:45 - connection established with server, creating new user account
+2018-02-23 08:36:15 DEBUG DatabaseDAO:55 - new user 1 has been registered to the server
+2018-02-23 09:50:09 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 09:50:09 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 09:50:09 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 09:50:09 TRACE DatabaseDAO:43 - .......
+2018-02-23 09:50:10 TRACE DatabaseDAO:45 - connection established with server, creating new user account
+2018-02-23 09:58:04 TRACE DatabaseDAO:40 - New user attempting to register
+2018-02-23 09:58:04 TRACE DatabaseDAO:41 - Attempting to establish a connection with the database
+2018-02-23 09:58:04 TRACE DatabaseDAO:42 - Please wait
+2018-02-23 09:58:04 TRACE DatabaseDAO:43 - .......
+2018-02-23 09:58:05 TRACE DatabaseDAO:45 - connection established with server, creating new user account
+2018-02-23 09:58:06 DEBUG DatabaseDAO:55 - new user 1 has been registered to the server
+2018-02-23 10:07:40 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 10:07:40 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 10:07:40 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 10:07:40 TRACE DatabaseDAO:79 - .......
+2018-02-23 10:07:41 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 10:08:12 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 10:08:12 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 10:08:12 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 10:08:12 TRACE DatabaseDAO:79 - .......
+2018-02-23 10:08:13 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 10:14:00 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 10:14:00 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 10:14:00 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 10:14:00 TRACE DatabaseDAO:45 - .......
+2018-02-23 10:14:01 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 10:19:08 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 10:19:08 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 10:19:08 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 10:19:08 TRACE DatabaseDAO:45 - .......
+2018-02-23 10:19:10 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 10:21:04 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 10:21:04 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 10:21:04 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 10:21:04 TRACE DatabaseDAO:45 - .......
+2018-02-23 10:21:05 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 10:21:06 WARN  DatabaseDAO:60 - Sorry! failed to register new user. Username is already taken.
+2018-02-23 11:12:08 TRACE DatabaseDAO:77 - User attempting to login
+2018-02-23 11:12:08 TRACE DatabaseDAO:78 - Attempting to establish a connection with the database
+2018-02-23 11:12:08 TRACE DatabaseDAO:79 - Please wait
+2018-02-23 11:12:08 TRACE DatabaseDAO:80 - .......
+2018-02-23 11:12:09 TRACE DatabaseDAO:82 - connection established with server, attempting to login
+2018-02-23 11:13:49 TRACE DatabaseDAO:77 - User attempting to login
+2018-02-23 11:13:49 TRACE DatabaseDAO:78 - Attempting to establish a connection with the database
+2018-02-23 11:13:49 TRACE DatabaseDAO:79 - Please wait
+2018-02-23 11:13:49 TRACE DatabaseDAO:80 - .......
+2018-02-23 11:13:50 TRACE DatabaseDAO:82 - connection established with server, attempting to login
+2018-02-23 11:15:31 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:15:31 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:15:31 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:15:31 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:15:32 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:17:12 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:17:12 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:17:12 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:17:12 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:17:13 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:17:13 TRACE DatabaseDAO:85 - FManagernull
+2018-02-23 11:18:06 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:18:06 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:18:06 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:18:06 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:18:07 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:18:07 TRACE DatabaseDAO:82 - FManager
+2018-02-23 11:18:07 TRACE DatabaseDAO:83 - 
+2018-02-23 11:18:59 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:18:59 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:18:59 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:18:59 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:19:00 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:19:00 TRACE DatabaseDAO:82 - FManager
+2018-02-23 11:19:00 TRACE DatabaseDAO:83 - 
+2018-02-23 11:19:52 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:19:52 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:19:52 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:19:52 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:19:53 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:19:53 TRACE DatabaseDAO:82 - FManager
+2018-02-23 11:19:53 TRACE DatabaseDAO:83 - 
+2018-02-23 11:20:46 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:20:46 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:20:46 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:20:46 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:20:47 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:20:47 TRACE DatabaseDAO:82 - FManager
+2018-02-23 11:20:47 TRACE DatabaseDAO:83 - FManager123
+2018-02-23 11:21:17 TRACE DatabaseDAO:77 - User attempting to login
+2018-02-23 11:21:17 TRACE DatabaseDAO:78 - Attempting to establish a connection with the database
+2018-02-23 11:21:17 TRACE DatabaseDAO:79 - Please wait
+2018-02-23 11:21:17 TRACE DatabaseDAO:80 - .......
+2018-02-23 11:21:19 TRACE DatabaseDAO:82 - connection established with server, attempting to login
+2018-02-23 11:21:55 TRACE DatabaseDAO:77 - User attempting to login
+2018-02-23 11:21:55 TRACE DatabaseDAO:78 - Attempting to establish a connection with the database
+2018-02-23 11:21:55 TRACE DatabaseDAO:79 - Please wait
+2018-02-23 11:21:55 TRACE DatabaseDAO:80 - .......
+2018-02-23 11:21:57 TRACE DatabaseDAO:82 - connection established with server, attempting to login
+2018-02-23 11:22:48 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:22:48 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:22:48 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:22:48 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:22:51 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:22:52 TRACE DatabaseDAO:85 - FManagerFManager123
+2018-02-23 11:24:34 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:24:34 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:24:34 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:24:34 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:24:35 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:25:19 TRACE DatabaseDAO:77 - User attempting to login
+2018-02-23 11:25:19 TRACE DatabaseDAO:78 - Attempting to establish a connection with the database
+2018-02-23 11:25:19 TRACE DatabaseDAO:79 - Please wait
+2018-02-23 11:25:19 TRACE DatabaseDAO:80 - .......
+2018-02-23 11:25:21 TRACE DatabaseDAO:82 - connection established with server, attempting to login
+2018-02-23 11:33:57 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 11:33:57 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 11:33:57 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 11:33:57 TRACE DatabaseDAO:45 - .......
+2018-02-23 11:33:58 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 11:33:58 WARN  DatabaseDAO:60 - Sorry! failed to register new user. Username is already taken.
+2018-02-23 11:33:58 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:33:58 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:33:58 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:33:58 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:33:59 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:33:59 TRACE DatabaseDAO:90 - Invalid credentials
+2018-02-23 11:34:40 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 11:34:40 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 11:34:40 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 11:34:40 TRACE DatabaseDAO:45 - .......
+2018-02-23 11:34:41 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 11:34:42 WARN  DatabaseDAO:60 - Sorry! failed to register new user. Username is already taken.
+2018-02-23 11:36:25 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 11:36:25 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 11:36:25 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 11:36:25 TRACE DatabaseDAO:45 - .......
+2018-02-23 11:36:26 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 11:36:26 WARN  DatabaseDAO:60 - Sorry! failed to register new user. Username is already taken.
+2018-02-23 11:37:09 TRACE DatabaseDAO:42 - New user attempting to register
+2018-02-23 11:37:09 TRACE DatabaseDAO:43 - Attempting to establish a connection with the database
+2018-02-23 11:37:09 TRACE DatabaseDAO:44 - Please wait
+2018-02-23 11:37:09 TRACE DatabaseDAO:45 - .......
+2018-02-23 11:37:10 TRACE DatabaseDAO:47 - connection established with server, creating new user account
+2018-02-23 11:37:10 DEBUG DatabaseDAO:57 - new user 1 has been registered to the server
+2018-02-23 11:38:07 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:38:07 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:38:07 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:38:07 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:38:09 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:38:11 TRACE DatabaseDAO:76 - User attempting to login
+2018-02-23 11:38:11 TRACE DatabaseDAO:77 - Attempting to establish a connection with the database
+2018-02-23 11:38:11 TRACE DatabaseDAO:78 - Please wait
+2018-02-23 11:38:11 TRACE DatabaseDAO:79 - .......
+2018-02-23 11:38:12 TRACE DatabaseDAO:81 - connection established with server, attempting to login
+2018-02-23 11:39:57 TRACE DatabaseDAO:77 - User attempting to login
+2018-02-23 11:39:57 TRACE DatabaseDAO:78 - Attempting to establish a connection with the database
+2018-02-23 11:39:57 TRACE DatabaseDAO:79 - Please wait
+2018-02-23 11:39:57 TRACE DatabaseDAO:80 - .......
+2018-02-23 11:39:58 TRACE DatabaseDAO:82 - connection established with server, attempting to login
+2018-02-23 11:44:04 TRACE DatabaseDAO:81 - User attempting to login
+2018-02-23 11:44:04 TRACE DatabaseDAO:82 - Attempting to establish a connection with the database
+2018-02-23 11:44:04 TRACE DatabaseDAO:83 - Please wait
+2018-02-23 11:44:04 TRACE DatabaseDAO:84 - .......
+2018-02-23 11:44:05 TRACE DatabaseDAO:86 - connection established with server, attempting to login
+2018-02-23 11:46:16 TRACE DatabaseDAO:81 - User attempting to login
+2018-02-23 11:46:16 TRACE DatabaseDAO:82 - Attempting to establish a connection with the database
+2018-02-23 11:46:16 TRACE DatabaseDAO:83 - Please wait
+2018-02-23 11:46:16 TRACE DatabaseDAO:84 - .......
+2018-02-23 11:46:17 TRACE DatabaseDAO:86 - connection established with server, attempting to login
+2018-02-23 11:46:17 TRACE DatabaseDAO:87 - FManagerFManager
+2018-02-23 11:46:56 TRACE DatabaseDAO:81 - User attempting to login
+2018-02-23 11:46:56 TRACE DatabaseDAO:82 - Attempting to establish a connection with the database
+2018-02-23 11:46:56 TRACE DatabaseDAO:83 - Please wait
+2018-02-23 11:46:56 TRACE DatabaseDAO:84 - .......
+2018-02-23 11:46:57 TRACE DatabaseDAO:86 - connection established with server, attempting to login
+2018-02-23 11:46:58 TRACE DatabaseDAO:90 - FManagerFManager
+2018-02-23 12:28:04 TRACE DatabaseDAO:83 - User attempting to login
+2018-02-23 12:28:04 TRACE DatabaseDAO:84 - Attempting to establish a connection with the database
+2018-02-23 12:28:04 TRACE DatabaseDAO:85 - Please wait
+2018-02-23 12:28:04 TRACE DatabaseDAO:86 - .......
+2018-02-23 12:28:06 TRACE DatabaseDAO:88 - connection established with server, attempting to login
+2018-02-23 12:28:14 TRACE DatabaseDAO:83 - User attempting to login
+2018-02-23 12:28:14 TRACE DatabaseDAO:84 - Attempting to establish a connection with the database
+2018-02-23 12:28:14 TRACE DatabaseDAO:85 - Please wait
+2018-02-23 12:28:14 TRACE DatabaseDAO:86 - .......
+2018-02-23 12:28:15 TRACE DatabaseDAO:88 - connection established with server, attempting to login
+2018-02-23 12:29:34 TRACE DatabaseDAO:87 - User attempting to login
+2018-02-23 12:29:34 TRACE DatabaseDAO:88 - Attempting to establish a connection with the database
+2018-02-23 12:29:34 TRACE DatabaseDAO:89 - Please wait
+2018-02-23 12:29:34 TRACE DatabaseDAO:90 - .......
+2018-02-23 12:29:35 TRACE DatabaseDAO:92 - connection established with server, attempting to login
+2018-02-23 12:29:42 TRACE DatabaseDAO:87 - User attempting to login
+2018-02-23 12:29:42 TRACE DatabaseDAO:88 - Attempting to establish a connection with the database
+2018-02-23 12:29:42 TRACE DatabaseDAO:89 - Please wait
+2018-02-23 12:29:42 TRACE DatabaseDAO:90 - .......
+2018-02-23 12:29:43 TRACE DatabaseDAO:92 - connection established with server, attempting to login
+2018-02-23 12:30:34 TRACE DatabaseDAO:90 - User attempting to login
+2018-02-23 12:30:34 TRACE DatabaseDAO:91 - Attempting to establish a connection with the database
+2018-02-23 12:30:34 TRACE DatabaseDAO:92 - Please wait
+2018-02-23 12:30:34 TRACE DatabaseDAO:93 - .......
+2018-02-23 12:30:35 TRACE DatabaseDAO:95 - connection established with server, attempting to login
+2018-02-23 12:32:35 TRACE DatabaseDAO:89 - User attempting to login
+2018-02-23 12:32:35 TRACE DatabaseDAO:90 - Attempting to establish a connection with the database
+2018-02-23 12:32:35 TRACE DatabaseDAO:91 - Please wait
+2018-02-23 12:32:35 TRACE DatabaseDAO:92 - .......
+2018-02-23 12:32:36 TRACE DatabaseDAO:94 - connection established with server, attempting to login
+2018-02-23 12:35:29 TRACE DatabaseDAO:89 - User attempting to login
+2018-02-23 12:35:29 TRACE DatabaseDAO:90 - Attempting to establish a connection with the database
+2018-02-23 12:35:29 TRACE DatabaseDAO:91 - Please wait
+2018-02-23 12:35:29 TRACE DatabaseDAO:92 - .......
+2018-02-23 12:35:30 TRACE DatabaseDAO:94 - connection established with server, attempting to login
+2018-02-23 12:36:56 TRACE DatabaseDAO:89 - User attempting to login
+2018-02-23 12:36:56 TRACE DatabaseDAO:90 - Attempting to establish a connection with the database
+2018-02-23 12:36:56 TRACE DatabaseDAO:91 - Please wait
+2018-02-23 12:36:56 TRACE DatabaseDAO:92 - .......
+2018-02-23 12:36:57 TRACE DatabaseDAO:94 - connection established with server, attempting to login
+2018-02-23 12:36:58 WARN  DatabaseDAO:101 - Unable to retrieve user credentials
+2018-02-23 12:37:40 TRACE DatabaseDAO:89 - User attempting to login
+2018-02-23 12:37:40 TRACE DatabaseDAO:90 - Attempting to establish a connection with the database
+2018-02-23 12:37:40 TRACE DatabaseDAO:91 - Please wait
+2018-02-23 12:37:40 TRACE DatabaseDAO:92 - .......
+2018-02-23 12:37:41 TRACE DatabaseDAO:94 - connection established with server, attempting to login
+2018-02-23 12:41:41 TRACE DatabaseDAO:88 - User attempting to login
+2018-02-23 12:41:41 TRACE DatabaseDAO:89 - Attempting to establish a connection with the database
+2018-02-23 12:41:41 TRACE DatabaseDAO:90 - Please wait
+2018-02-23 12:41:41 TRACE DatabaseDAO:91 - .......
+2018-02-23 12:41:42 TRACE DatabaseDAO:93 - connection established with server, attempting to login
+2018-02-23 12:42:56 TRACE DatabaseDAO:88 - User attempting to login
+2018-02-23 12:42:56 TRACE DatabaseDAO:89 - Attempting to establish a connection with the database
+2018-02-23 12:42:56 TRACE DatabaseDAO:90 - Please wait
+2018-02-23 12:42:56 TRACE DatabaseDAO:91 - .......
+2018-02-23 12:42:57 TRACE DatabaseDAO:93 - connection established with server, attempting to login
+2018-02-23 12:47:02 TRACE DatabaseDAO:85 - User attempting to login
+2018-02-23 12:47:02 TRACE DatabaseDAO:86 - Attempting to establish a connection with the database
+2018-02-23 12:47:02 TRACE DatabaseDAO:87 - Please wait
+2018-02-23 12:47:02 TRACE DatabaseDAO:88 - .......
+2018-02-23 12:47:03 TRACE DatabaseDAO:90 - connection established with server, attempting to login
+2018-02-23 20:37:30 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:37:30 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:37:30 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:37:30 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:37:32 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:37:32 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:37:32 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:37:32 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:37:32 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:37:33 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 20:38:16 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:38:16 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:38:16 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:38:16 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:38:17 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:38:18 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:38:18 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:38:18 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:38:18 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:38:19 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 20:38:19 WARN  DatabaseDAO:148 - Sorry! failed to register new request.
+2018-02-23 20:55:32 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:55:32 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:55:32 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:55:32 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:55:33 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:55:34 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:55:34 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:55:34 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:55:34 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:55:34 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 20:55:56 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:55:56 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:55:56 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:55:56 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:55:57 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:55:58 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:55:58 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:55:58 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:55:58 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:55:59 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 20:55:59 WARN  DatabaseDAO:148 - Sorry! failed to register new request.
+2018-02-23 20:56:51 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:56:51 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:56:51 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:56:51 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:56:52 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:56:53 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:56:53 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:56:53 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:56:53 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:56:53 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:56:53 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:56:53 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:56:53 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:56:53 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:56:53 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:56:53 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:56:53 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:56:53 TRACE DatabaseDAO:135 - UserReimbursement [id=0, type_id=3, reimb_author=0, reimb_resolver=0, reimb_resolved=0, reimb_amount=250.75, reimb_submitted=0, reimb_description=gas is expensive bruh, reimb_status_id=2]
+2018-02-23 20:56:54 TRACE DatabaseDAO:137 - connection established with server, submitting request
+2018-02-23 20:56:54 WARN  DatabaseDAO:149 - Sorry! failed to register new request.
+2018-02-23 20:56:55 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:56:55 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:56:55 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:56:55 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 20:56:55 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:56:55 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 20:56:55 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:56:55 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 20:56:55 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:56:55 TRACE DatabaseDAO:134 - .......
+2018-02-23 20:56:55 TRACE DatabaseDAO:135 - UserReimbursement [id=0, type_id=3, reimb_author=0, reimb_resolver=0, reimb_resolved=0, reimb_amount=250.75, reimb_submitted=0, reimb_description=gas is expensive bruh, reimb_status_id=2]
+2018-02-23 20:56:55 TRACE DatabaseDAO:135 - UserReimbursement [id=0, type_id=3, reimb_author=0, reimb_resolver=0, reimb_resolved=0, reimb_amount=250.75, reimb_submitted=0, reimb_description=gas is expensive bruh, reimb_status_id=2]
+2018-02-23 20:56:56 TRACE DatabaseDAO:137 - connection established with server, submitting request
+2018-02-23 20:56:56 TRACE DatabaseDAO:137 - connection established with server, submitting request
+2018-02-23 20:56:56 WARN  DatabaseDAO:149 - Sorry! failed to register new request.
+2018-02-23 20:56:56 WARN  DatabaseDAO:149 - Sorry! failed to register new request.
+2018-02-23 20:58:58 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:58:58 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:58:58 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:58:58 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:58:59 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 20:59:58 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 20:59:58 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 20:59:58 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 20:59:58 TRACE DatabaseDAO:107 - .......
+2018-02-23 20:59:59 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 21:00:00 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:00:00 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:00:00 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:00:00 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:00:01 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:00:01 WARN  DatabaseDAO:148 - Sorry! failed to register new request.
+2018-02-23 21:00:44 TRACE DatabaseDAO:105 - User attempting to login
+2018-02-23 21:00:44 TRACE DatabaseDAO:106 - Attempting to establish a connection with the database
+2018-02-23 21:00:44 TRACE DatabaseDAO:107 - Please wait
+2018-02-23 21:00:44 TRACE DatabaseDAO:108 - .......
+2018-02-23 21:00:46 TRACE DatabaseDAO:110 - connection established with server, attempting to login
+2018-02-23 21:00:47 TRACE DatabaseDAO:51 - UserReimbursement [id=0, type_id=3, reimb_author=0, reimb_resolver=0, reimb_resolved=0, reimb_amount=250.75, reimb_submitted=0, reimb_description=gas is expensive bruh, reimb_status_id=2]
+2018-02-23 21:00:47 TRACE DatabaseDAO:132 - Attempting to submit request
+2018-02-23 21:00:47 TRACE DatabaseDAO:133 - connecting with the database
+2018-02-23 21:00:47 TRACE DatabaseDAO:134 - Please wait
+2018-02-23 21:00:47 TRACE DatabaseDAO:135 - .......
+2018-02-23 21:00:47 TRACE DatabaseDAO:137 - connection established with server, submitting request
+2018-02-23 21:00:48 WARN  DatabaseDAO:149 - Sorry! failed to register new request.
+2018-02-23 21:01:51 TRACE DatabaseDAO:105 - User attempting to login
+2018-02-23 21:01:51 TRACE DatabaseDAO:106 - Attempting to establish a connection with the database
+2018-02-23 21:01:51 TRACE DatabaseDAO:107 - Please wait
+2018-02-23 21:01:51 TRACE DatabaseDAO:108 - .......
+2018-02-23 21:01:52 TRACE DatabaseDAO:110 - connection established with server, attempting to login
+2018-02-23 21:02:01 TRACE DatabaseDAO:105 - User attempting to login
+2018-02-23 21:02:01 TRACE DatabaseDAO:106 - Attempting to establish a connection with the database
+2018-02-23 21:02:01 TRACE DatabaseDAO:107 - Please wait
+2018-02-23 21:02:01 TRACE DatabaseDAO:108 - .......
+2018-02-23 21:02:03 TRACE DatabaseDAO:110 - connection established with server, attempting to login
+2018-02-23 21:02:03 TRACE DatabaseDAO:132 - Attempting to submit request
+2018-02-23 21:02:03 TRACE DatabaseDAO:133 - connecting with the database
+2018-02-23 21:02:03 TRACE DatabaseDAO:134 - Please wait
+2018-02-23 21:02:03 TRACE DatabaseDAO:135 - .......
+2018-02-23 21:02:04 TRACE DatabaseDAO:137 - connection established with server, submitting request
+2018-02-23 21:02:04 WARN  DatabaseDAO:149 - Sorry! failed to register new request.
+2018-02-23 21:19:51 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 21:19:51 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 21:19:51 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 21:19:51 TRACE DatabaseDAO:107 - .......
+2018-02-23 21:19:53 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 21:19:53 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:19:53 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:19:53 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:19:53 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:19:54 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:23:29 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 21:23:29 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 21:23:29 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 21:23:29 TRACE DatabaseDAO:107 - .......
+2018-02-23 21:23:31 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 21:23:31 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:23:31 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:23:31 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:23:31 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:23:32 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:26:42 TRACE DatabaseDAO:104 - User attempting to login
+2018-02-23 21:26:42 TRACE DatabaseDAO:105 - Attempting to establish a connection with the database
+2018-02-23 21:26:42 TRACE DatabaseDAO:106 - Please wait
+2018-02-23 21:26:42 TRACE DatabaseDAO:107 - .......
+2018-02-23 21:26:44 TRACE DatabaseDAO:109 - connection established with server, attempting to login
+2018-02-23 21:26:44 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:26:44 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:26:44 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:26:44 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:26:45 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:30:52 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:30:52 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:30:52 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:30:52 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:30:53 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:39:57 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:39:57 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:39:57 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:39:57 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:39:58 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:45:30 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:45:30 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:45:30 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:45:30 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:45:31 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:57:34 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:57:34 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:57:34 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:57:34 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:57:36 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:58:35 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:58:35 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:58:35 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:58:35 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:58:37 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 21:58:48 TRACE DatabaseDAO:131 - Attempting to submit request
+2018-02-23 21:58:48 TRACE DatabaseDAO:132 - connecting with the database
+2018-02-23 21:58:48 TRACE DatabaseDAO:133 - Please wait
+2018-02-23 21:58:48 TRACE DatabaseDAO:134 - .......
+2018-02-23 21:58:50 TRACE DatabaseDAO:136 - connection established with server, submitting request
+2018-02-23 22:33:56 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:33:56 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:33:56 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:33:56 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:33:57 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:35:38 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:35:38 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:35:38 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:35:38 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:35:39 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:37:38 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:37:38 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:37:38 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:37:38 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:37:39 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:38:53 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:38:53 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:38:53 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:38:53 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:38:55 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:39:14 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:39:14 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:39:14 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:39:14 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:39:15 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:39:16 WARN  DatabaseDAO:152 - Sorry! failed to register new request.
+2018-02-23 22:40:02 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:40:02 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:40:02 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:40:02 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:40:03 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:40:04 WARN  DatabaseDAO:151 - Sorry! failed to register new request.
+2018-02-23 22:44:27 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 22:44:27 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 22:44:27 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 22:44:27 TRACE DatabaseDAO:137 - .......
+2018-02-23 22:44:28 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 22:44:29 DEBUG DatabaseDAO:148 - 1 new request has been submitted. Thank you!
+2018-02-23 23:07:57 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 23:07:57 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 23:07:57 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 23:07:57 TRACE DatabaseDAO:137 - .......
+2018-02-23 23:07:57 TRACE DatabaseDAO:134 - Attempting to submit request
+2018-02-23 23:07:57 TRACE DatabaseDAO:135 - connecting with the database
+2018-02-23 23:07:57 TRACE DatabaseDAO:136 - Please wait
+2018-02-23 23:07:57 TRACE DatabaseDAO:137 - .......
+2018-02-23 23:07:58 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 23:07:58 TRACE DatabaseDAO:139 - connection established with server, submitting request
+2018-02-23 23:08:01 DEBUG DatabaseDAO:148 - 1 new request has been submitted. Thank you!
+2018-02-23 23:08:01 DEBUG DatabaseDAO:148 - 1 new request has been submitted. Thank you!
+2018-02-23 23:29:51 TRACE DatabaseDAO:163 - Attempting to update request
+2018-02-23 23:29:51 TRACE DatabaseDAO:164 - connecting with the database
+2018-02-23 23:29:51 TRACE DatabaseDAO:165 - Please wait
+2018-02-23 23:29:51 TRACE DatabaseDAO:166 - .......
+2018-02-23 23:29:52 TRACE DatabaseDAO:168 - connection established with server, updating request
+2018-02-23 23:29:53 WARN  DatabaseDAO:178 - Sorry! failed to update.
+2018-02-23 23:30:27 TRACE DatabaseDAO:163 - Attempting to update request
+2018-02-23 23:30:27 TRACE DatabaseDAO:164 - connecting with the database
+2018-02-23 23:30:27 TRACE DatabaseDAO:165 - Please wait
+2018-02-23 23:30:27 TRACE DatabaseDAO:166 - .......
+2018-02-23 23:30:29 TRACE DatabaseDAO:168 - connection established with server, updating request
+2018-02-23 23:30:29 WARN  DatabaseDAO:178 - Sorry! failed to update.
+2018-02-23 23:31:24 TRACE DatabaseDAO:163 - Attempting to update request
+2018-02-23 23:31:24 TRACE DatabaseDAO:164 - connecting with the database
+2018-02-23 23:31:24 TRACE DatabaseDAO:165 - Please wait
+2018-02-23 23:31:24 TRACE DatabaseDAO:166 - .......
+2018-02-23 23:31:26 TRACE DatabaseDAO:168 - connection established with server, updating request
+2018-02-23 23:31:26 WARN  DatabaseDAO:178 - Sorry! failed to update.
+2018-02-23 23:32:21 TRACE DatabaseDAO:163 - Attempting to update request
+2018-02-23 23:32:21 TRACE DatabaseDAO:164 - connecting with the database
+2018-02-23 23:32:21 TRACE DatabaseDAO:165 - Please wait
+2018-02-23 23:32:21 TRACE DatabaseDAO:166 - .......
+2018-02-23 23:32:22 TRACE DatabaseDAO:168 - connection established with server, updating request
+2018-02-23 23:32:23 WARN  DatabaseDAO:178 - Sorry! failed to update.
+2018-02-23 23:34:52 TRACE DatabaseDAO:163 - Attempting to update request
+2018-02-23 23:34:52 TRACE DatabaseDAO:164 - connecting with the database
+2018-02-23 23:34:52 TRACE DatabaseDAO:165 - Please wait
+2018-02-23 23:34:52 TRACE DatabaseDAO:166 - .......
+2018-02-23 23:34:53 TRACE DatabaseDAO:168 - connection established with server, updating request
+2018-02-23 23:34:53 WARN  DatabaseDAO:178 - Sorry! failed to update.

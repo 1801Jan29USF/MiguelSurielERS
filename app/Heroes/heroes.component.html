@@ -1,0 +1,19 @@
+<!-- Form to submit -->
+<form (ngSubmit)="addHero(newHero)">
+    <input type="text" name="hero-name" [(ngModel)]="newHero.name" placeholder="name">
+    <input type="text" name="hero-url" [(ngModel)]="newHero.imageUrl" placeholder="image url">
+    <input type="number" name="hero-power" [(ngModel)]="newHero.power" placeholder="power">
+    <button type="submit" class="btn-btn-primary"> Submit</button>
+  </form>
+<br>
+<label for="power-filter"></label>
+<!-- the ngModel allows to give it functionality  to powerFilter -->
+<input type="number" name="power-filter" [(ngModel)]="powerFilter">
+<br>
+
+<!-- power filter when adding heroes pipe with a minimum of power of powerFilter-->
+<div *ngFor="let hero of (heroes | heroPower:powerFilter)">
+   <app-hero [hero]='hero'></app-hero>
+</div>
+  
+  
